@@ -1,6 +1,8 @@
 class School
 
-def initialized
+attr_w
+
+def initialize
   school.roster
 end
 
